@@ -1,0 +1,11 @@
+{
+  "name": "events-api",
+  "version": "1.0.0",
+  "description": "Notion からイベント情報を取得して JSON API として公開",
+  "scripts": {
+    "test": "node test_notion.js"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.15"
+  }
+}

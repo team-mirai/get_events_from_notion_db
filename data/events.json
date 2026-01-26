@@ -1,7 +1,343 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-01-27T01:56:51.881154+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 0,
-  "events": [],
-  "_comment": "This file will be automatically updated by GitHub Actions"
+  "total_count": 16,
+  "events": [
+    {
+      "id": "2f4f6f56-bae1-809d-999f-e3d74f9d9d6a",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-01-27",
+        "end": null
+      },
+      "location": "大宮駅西口デッキ上",
+      "time": "15:30-16:30",
+      "live_stream_url": "",
+      "detail_links": [
+        "https://x.com/moo_mirai",
+        "",
+        "",
+        ""
+      ],
+      "description": "武藤かずこアカウントよりご確認ください",
+      "notion_url": "https://www.notion.so/2f4f6f56bae1809d999fe3d74f9d9d6a",
+      "created_time": "2026-01-26T03:19:00.000Z",
+      "last_edited_time": "2026-01-26T16:40:00.000Z"
+    },
+    {
+      "id": "2f2f6f56-bae1-805a-93a8-e82d600a97e8",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-01-27",
+        "end": null
+      },
+      "location": "宇都宮駅西口トナリエ前",
+      "time": "18:00-19:00",
+      "live_stream_url": "",
+      "detail_links": [
+        "https://x.com/moo_mirai",
+        "",
+        "",
+        ""
+      ],
+      "description": "武藤かずこアカウントよりご確認ください\n",
+      "notion_url": "https://www.notion.so/2f2f6f56bae1805a93a8e82d600a97e8",
+      "created_time": "2026-01-24T00:19:00.000Z",
+      "last_edited_time": "2026-01-26T16:40:00.000Z"
+    },
+    {
+      "id": "2f2f6f56-bae1-8023-b9b5-fade908552e0",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-01-27",
+        "end": null
+      },
+      "location": " 新浦安駅　駅前広場",
+      "time": "13:00-14:00頃",
+      "live_stream_url": "",
+      "detail_links": [
+        "https://x.com/syuhei_mirai",
+        "",
+        "",
+        ""
+      ],
+      "description": "以下のアカウントからご確認ください\n小林　しゅうへい\n",
+      "notion_url": "https://www.notion.so/2f2f6f56bae18023b9b5fade908552e0",
+      "created_time": "2026-01-24T00:18:00.000Z",
+      "last_edited_time": "2026-01-26T16:40:00.000Z"
+    },
+    {
+      "id": "2f1f6f56-bae1-80b3-8a2e-eb4220166669",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-01-27",
+        "end": null
+      },
+      "location": "渋谷ハチ公口",
+      "time": "10:30",
+      "live_stream_url": " https://www.youtube.com/live/94bNVSixxiI?si=MUwFkAVFWdESII4Q",
+      "detail_links": [
+        "https://x.com/satoshi_2125",
+        "https://x.com/mineshima_mirai",
+        "",
+        ""
+      ],
+      "description": "以下のアカウントからご確認ください\n高山さとしhttps://x.com/satoshi_2125\nみねしま侑也https://x.com/mineshima_mirai",
+      "notion_url": "https://www.notion.so/2f1f6f56bae180b38a2eeb4220166669",
+      "created_time": "2026-01-23T23:56:00.000Z",
+      "last_edited_time": "2026-01-26T16:41:00.000Z"
+    },
+    {
+      "id": "2f3f6f56-bae1-8010-af91-dec5a785489d",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-01-28",
+        "end": null
+      },
+      "location": "横浜",
+      "time": "19:15-20:00",
+      "live_stream_url": "",
+      "detail_links": [
+        "https://x.com/michio_mirai",
+        "https://x.com/yamadaeri1982",
+        "",
+        ""
+      ],
+      "description": "以下のアカウントからご確認ください河合みちお\nhttps://x.com/michio_mirai\n山田えり\nhttps://x.com/yamadaeri1982",
+      "notion_url": "https://www.notion.so/2f3f6f56bae18010af91dec5a785489d",
+      "created_time": "2026-01-25T06:27:00.000Z",
+      "last_edited_time": "2026-01-26T16:42:00.000Z"
+    },
+    {
+      "id": "2f2f6f56-bae1-8053-adde-d5d7090de701",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-01-28",
+        "end": null
+      },
+      "location": "川崎",
+      "time": "17:45-18:20",
+      "live_stream_url": "",
+      "detail_links": [
+        "https://x.com/michio_mirai",
+        "https://x.com/yamadaeri1982",
+        "",
+        ""
+      ],
+      "description": "以下のアカウントからご確認ください河合みちお\nhttps://x.com/michio_mirai\n山田えり\nhttps://x.com/yamadaeri1982",
+      "notion_url": "https://www.notion.so/2f2f6f56bae18053added5d7090de701",
+      "created_time": "2026-01-24T00:19:00.000Z",
+      "last_edited_time": "2026-01-26T16:42:00.000Z"
+    },
+    {
+      "id": "2f2f6f56-bae1-8035-a497-e62436e4e7ea",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-01-29",
+        "end": null
+      },
+      "location": "福岡",
+      "time": "午後",
+      "live_stream_url": "",
+      "detail_links": [
+        "https://x.com/AoiFurukawa",
+        "",
+        "",
+        ""
+      ],
+      "description": "古川　あおいアカウントよりご確認ください\nhttps://www.instagram.com/aoi.furukawa/",
+      "notion_url": "https://www.notion.so/2f2f6f56bae18035a497e62436e4e7ea",
+      "created_time": "2026-01-24T00:21:00.000Z",
+      "last_edited_time": "2026-01-26T16:43:00.000Z"
+    },
+    {
+      "id": "2f2f6f56-bae1-806e-a541-f8d6875b3f84",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-01-29",
+        "end": null
+      },
+      "location": "兵庫",
+      "time": "午前",
+      "live_stream_url": "",
+      "detail_links": [
+        "https://x.com/takeyoshi_mirai",
+        "",
+        "",
+        ""
+      ],
+      "description": "山本たけよしアカウントよりご確認ください\n",
+      "notion_url": "https://www.notion.so/2f2f6f56bae1806ea541f8d6875b3f84",
+      "created_time": "2026-01-24T00:21:00.000Z",
+      "last_edited_time": "2026-01-26T16:43:00.000Z"
+    },
+    {
+      "id": "2f2f6f56-bae1-807d-8e1b-f969627f615a",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-01-29",
+        "end": null
+      },
+      "location": "大阪",
+      "time": "午前",
+      "live_stream_url": "",
+      "detail_links": [
+        "https://x.com/takeyoshi_mirai",
+        "",
+        "",
+        ""
+      ],
+      "description": "山本たけよしアカウントよりご確認ください\n",
+      "notion_url": "https://www.notion.so/2f2f6f56bae1807d8e1bf969627f615a",
+      "created_time": "2026-01-24T00:20:00.000Z",
+      "last_edited_time": "2026-01-26T16:43:00.000Z"
+    },
+    {
+      "id": "2f2f6f56-bae1-8037-88a8-c0f774a0f1b7",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-01-30",
+        "end": null
+      },
+      "location": "東京(吉祥寺、立川、八王子)",
+      "time": "午後",
+      "live_stream_url": "",
+      "detail_links": [
+        "https://x.com/satoshi_2125",
+        "https://www.instagram.com/satoshi.takayama.12/",
+        "https://x.com/mineshima_mirai",
+        "https://www.instagram.com/yuyamineshima_teammirai/"
+      ],
+      "description": "以下のアカウントからご確認ください高山さとし\nhttps://x.com/satoshi_2125\nhttps://www.instagram.com/satoshi.takayama.12/\nみねしま侑也\nhttps://x.com/mineshima_mirai\nhttps://www.instagram.com/yuyamineshima_teammirai/",
+      "notion_url": "https://www.notion.so/2f2f6f56bae1803788a8c0f774a0f1b7",
+      "created_time": "2026-01-24T00:22:00.000Z",
+      "last_edited_time": "2026-01-26T16:49:00.000Z"
+    },
+    {
+      "id": "2f4f6f56-bae1-8081-9591-f60a58d37d20",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-01-31",
+        "end": null
+      },
+      "location": "渋谷駅",
+      "time": "17:30-",
+      "live_stream_url": "",
+      "detail_links": [
+        "https://x.com/satoshi_2125",
+        "https://www.instagram.com/satoshi.takayama.12/",
+        "https://x.com/mineshima_mirai",
+        "https://www.instagram.com/yuyamineshima_teammirai/"
+      ],
+      "description": "以下のアカウントからご確認ください　高山さとし\nhttps://x.com/satoshi_2125\nhttps://www.instagram.com/satoshi.takayama.12/\nみねしま侑也\nhttps://x.com/mineshima_mirai\nhttps://www.instagram.com/yuyamineshima_teammirai/",
+      "notion_url": "https://www.notion.so/2f4f6f56bae180819591f60a58d37d20",
+      "created_time": "2026-01-26T03:41:00.000Z",
+      "last_edited_time": "2026-01-26T16:50:00.000Z"
+    },
+    {
+      "id": "2f4f6f56-bae1-8039-b307-f152a4fcc51f",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-01-31",
+        "end": null
+      },
+      "location": "都内",
+      "time": "",
+      "live_stream_url": "",
+      "detail_links": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "description": "以下のアカウントからご確認ください　高山さとし\nhttps://x.com/satoshi_2125\nhttps://www.instagram.com/satoshi.takayama.12/\nみねしま侑也\nhttps://x.com/mineshima_mirai\nhttps://www.instagram.com/yuyamineshima_teammirai/",
+      "notion_url": "https://www.notion.so/2f4f6f56bae18039b307f152a4fcc51f",
+      "created_time": "2026-01-26T03:40:00.000Z",
+      "last_edited_time": "2026-01-26T14:21:00.000Z"
+    },
+    {
+      "id": "2f4f6f56-bae1-8082-a324-db7ceca2e9a3",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-01-31",
+        "end": null
+      },
+      "location": "柏の葉",
+      "time": "11:00頃",
+      "live_stream_url": "",
+      "detail_links": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "description": "小林　しゅうへいアカウントからご確認ください\nhttps://x.com/syuhei_mirai\nhttps://www.instagram.com/syuhei_mirai",
+      "notion_url": "https://www.notion.so/2f4f6f56bae18082a324db7ceca2e9a3",
+      "created_time": "2026-01-26T03:39:00.000Z",
+      "last_edited_time": "2026-01-26T14:21:00.000Z"
+    },
+    {
+      "id": "2f2f6f56-bae1-80f6-9b0a-c2ab8745122e",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-01-31",
+        "end": null
+      },
+      "location": "つくば",
+      "time": "9:00頃",
+      "live_stream_url": "",
+      "detail_links": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "description": "武藤かずこアカウントからご確認ください\nhttps://x.com/moo_mirai\nhttps://www.instagram.com/muto_mirai/#",
+      "notion_url": "https://www.notion.so/2f2f6f56bae180f69b0ac2ab8745122e",
+      "created_time": "2026-01-24T00:22:00.000Z",
+      "last_edited_time": "2026-01-26T14:21:00.000Z"
+    },
+    {
+      "id": "2f4f6f56-bae1-800b-af9c-f4c35ebaf537",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-02-01",
+        "end": null
+      },
+      "location": "川崎　横浜",
+      "time": "午後",
+      "live_stream_url": "",
+      "detail_links": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "description": "以下のアカウントからご確認ください　河合みちお\nhttps://x.com/michio_mirai\nhttps://www.instagram.com/michio.kawai.mirai\n山田えり\nhttps://x.com/yamadaeri1982\nhttps://www.instagram.com/yamadaeri_kawasaki/",
+      "notion_url": "https://www.notion.so/2f4f6f56bae1800baf9cf4c35ebaf537",
+      "created_time": "2026-01-26T03:43:00.000Z",
+      "last_edited_time": "2026-01-26T14:21:00.000Z"
+    },
+    {
+      "id": "2f4f6f56-bae1-8052-bf5a-e8f3eb4b0998",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-02-01",
+        "end": null
+      },
+      "location": "千葉駅　船橋駅",
+      "time": "午前",
+      "live_stream_url": "",
+      "detail_links": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "description": "小林　しゅうへいアカウントからご確認ください\nhttps://x.com/syuhei_mirai\nhttps://www.instagram.com/syuhei_mirai",
+      "notion_url": "https://www.notion.so/2f4f6f56bae18052bf5ae8f3eb4b0998",
+      "created_time": "2026-01-26T03:43:00.000Z",
+      "last_edited_time": "2026-01-26T14:21:00.000Z"
+    }
+  ]
 }

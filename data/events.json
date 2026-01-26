@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T01:56:51.881154+09:00",
+  "generated_at": "2026-01-27T02:05:25.589998+09:00",
   "timezone": "Asia/Tokyo",
   "total_count": 16,
   "events": [
@@ -11,7 +11,7 @@
         "end": null
       },
       "location": "大宮駅西口デッキ上",
-      "time": "15:30-16:30",
+      "time": "",
       "live_stream_url": "",
       "detail_links": [
         "https://x.com/moo_mirai",
@@ -22,7 +22,7 @@
       "description": "武藤かずこアカウントよりご確認ください",
       "notion_url": "https://www.notion.so/2f4f6f56bae1809d999fe3d74f9d9d6a",
       "created_time": "2026-01-26T03:19:00.000Z",
-      "last_edited_time": "2026-01-26T16:40:00.000Z"
+      "last_edited_time": "2026-01-26T17:03:00.000Z"
     },
     {
       "id": "2f2f6f56-bae1-805a-93a8-e82d600a97e8",
@@ -32,7 +32,7 @@
         "end": null
       },
       "location": "宇都宮駅西口トナリエ前",
-      "time": "18:00-19:00",
+      "time": "",
       "live_stream_url": "",
       "detail_links": [
         "https://x.com/moo_mirai",
@@ -43,7 +43,7 @@
       "description": "武藤かずこアカウントよりご確認ください\n",
       "notion_url": "https://www.notion.so/2f2f6f56bae1805a93a8e82d600a97e8",
       "created_time": "2026-01-24T00:19:00.000Z",
-      "last_edited_time": "2026-01-26T16:40:00.000Z"
+      "last_edited_time": "2026-01-26T17:03:00.000Z"
     },
     {
       "id": "2f2f6f56-bae1-8023-b9b5-fade908552e0",
@@ -53,7 +53,7 @@
         "end": null
       },
       "location": " 新浦安駅　駅前広場",
-      "time": "13:00-14:00頃",
+      "time": "",
       "live_stream_url": "",
       "detail_links": [
         "https://x.com/syuhei_mirai",
@@ -64,7 +64,7 @@
       "description": "以下のアカウントからご確認ください\n小林　しゅうへい\n",
       "notion_url": "https://www.notion.so/2f2f6f56bae18023b9b5fade908552e0",
       "created_time": "2026-01-24T00:18:00.000Z",
-      "last_edited_time": "2026-01-26T16:40:00.000Z"
+      "last_edited_time": "2026-01-26T17:03:00.000Z"
     },
     {
       "id": "2f1f6f56-bae1-80b3-8a2e-eb4220166669",
@@ -74,7 +74,7 @@
         "end": null
       },
       "location": "渋谷ハチ公口",
-      "time": "10:30",
+      "time": "",
       "live_stream_url": " https://www.youtube.com/live/94bNVSixxiI?si=MUwFkAVFWdESII4Q",
       "detail_links": [
         "https://x.com/satoshi_2125",
@@ -95,7 +95,7 @@
         "end": null
       },
       "location": "横浜",
-      "time": "19:15-20:00",
+      "time": "",
       "live_stream_url": "",
       "detail_links": [
         "https://x.com/michio_mirai",
@@ -106,7 +106,7 @@
       "description": "以下のアカウントからご確認ください河合みちお\nhttps://x.com/michio_mirai\n山田えり\nhttps://x.com/yamadaeri1982",
       "notion_url": "https://www.notion.so/2f3f6f56bae18010af91dec5a785489d",
       "created_time": "2026-01-25T06:27:00.000Z",
-      "last_edited_time": "2026-01-26T16:42:00.000Z"
+      "last_edited_time": "2026-01-26T17:03:00.000Z"
     },
     {
       "id": "2f2f6f56-bae1-8053-adde-d5d7090de701",
@@ -116,7 +116,7 @@
         "end": null
       },
       "location": "川崎",
-      "time": "17:45-18:20",
+      "time": "",
       "live_stream_url": "",
       "detail_links": [
         "https://x.com/michio_mirai",
@@ -127,7 +127,7 @@
       "description": "以下のアカウントからご確認ください河合みちお\nhttps://x.com/michio_mirai\n山田えり\nhttps://x.com/yamadaeri1982",
       "notion_url": "https://www.notion.so/2f2f6f56bae18053added5d7090de701",
       "created_time": "2026-01-24T00:19:00.000Z",
-      "last_edited_time": "2026-01-26T16:42:00.000Z"
+      "last_edited_time": "2026-01-26T17:03:00.000Z"
     },
     {
       "id": "2f2f6f56-bae1-8035-a497-e62436e4e7ea",
@@ -137,7 +137,7 @@
         "end": null
       },
       "location": "福岡",
-      "time": "午後",
+      "time": "",
       "live_stream_url": "",
       "detail_links": [
         "https://x.com/AoiFurukawa",
@@ -158,7 +158,7 @@
         "end": null
       },
       "location": "兵庫",
-      "time": "午前",
+      "time": "",
       "live_stream_url": "",
       "detail_links": [
         "https://x.com/takeyoshi_mirai",
@@ -179,7 +179,7 @@
         "end": null
       },
       "location": "大阪",
-      "time": "午前",
+      "time": "",
       "live_stream_url": "",
       "detail_links": [
         "https://x.com/takeyoshi_mirai",
@@ -200,7 +200,7 @@
         "end": null
       },
       "location": "東京(吉祥寺、立川、八王子)",
-      "time": "午後",
+      "time": "",
       "live_stream_url": "",
       "detail_links": [
         "https://x.com/satoshi_2125",
@@ -221,7 +221,7 @@
         "end": null
       },
       "location": "渋谷駅",
-      "time": "17:30-",
+      "time": "",
       "live_stream_url": "",
       "detail_links": [
         "https://x.com/satoshi_2125",
@@ -263,7 +263,7 @@
         "end": null
       },
       "location": "柏の葉",
-      "time": "11:00頃",
+      "time": "",
       "live_stream_url": "",
       "detail_links": [
         "",
@@ -284,7 +284,7 @@
         "end": null
       },
       "location": "つくば",
-      "time": "9:00頃",
+      "time": "",
       "live_stream_url": "",
       "detail_links": [
         "",
@@ -305,7 +305,7 @@
         "end": null
       },
       "location": "川崎　横浜",
-      "time": "午後",
+      "time": "",
       "live_stream_url": "",
       "detail_links": [
         "",
@@ -326,7 +326,7 @@
         "end": null
       },
       "location": "千葉駅　船橋駅",
-      "time": "午前",
+      "time": "",
       "live_stream_url": "",
       "detail_links": [
         "",

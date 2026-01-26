@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-01-27T02:05:25.589998+09:00",
+  "generated_at": "2026-01-27T02:18:28.627528+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 16,
+  "total_count": 15,
   "events": [
-    {
-      "id": "2f4f6f56-bae1-809d-999f-e3d74f9d9d6a",
-      "name": "街頭演説",
-      "date": {
-        "start": "2026-01-27",
-        "end": null
-      },
-      "location": "大宮駅西口デッキ上",
-      "time": "",
-      "live_stream_url": "",
-      "detail_links": [
-        "https://x.com/moo_mirai",
-        "",
-        "",
-        ""
-      ],
-      "description": "武藤かずこアカウントよりご確認ください",
-      "notion_url": "https://www.notion.so/2f4f6f56bae1809d999fe3d74f9d9d6a",
-      "created_time": "2026-01-26T03:19:00.000Z",
-      "last_edited_time": "2026-01-26T17:03:00.000Z"
-    },
     {
       "id": "2f2f6f56-bae1-805a-93a8-e82d600a97e8",
       "name": "街頭演説",
@@ -46,27 +25,6 @@
       "last_edited_time": "2026-01-26T17:03:00.000Z"
     },
     {
-      "id": "2f2f6f56-bae1-8023-b9b5-fade908552e0",
-      "name": "街頭演説",
-      "date": {
-        "start": "2026-01-27",
-        "end": null
-      },
-      "location": " 新浦安駅　駅前広場",
-      "time": "",
-      "live_stream_url": "",
-      "detail_links": [
-        "https://x.com/syuhei_mirai",
-        "",
-        "",
-        ""
-      ],
-      "description": "以下のアカウントからご確認ください\n小林　しゅうへい\n",
-      "notion_url": "https://www.notion.so/2f2f6f56bae18023b9b5fade908552e0",
-      "created_time": "2026-01-24T00:18:00.000Z",
-      "last_edited_time": "2026-01-26T17:03:00.000Z"
-    },
-    {
       "id": "2f1f6f56-bae1-80b3-8a2e-eb4220166669",
       "name": "街頭演説",
       "date": {
@@ -78,7 +36,7 @@
       "live_stream_url": " https://www.youtube.com/live/94bNVSixxiI?si=MUwFkAVFWdESII4Q",
       "detail_links": [
         "https://x.com/satoshi_2125",
-        "https://x.com/mineshima_mirai",
+        "",
         "",
         ""
       ],
@@ -86,6 +44,27 @@
       "notion_url": "https://www.notion.so/2f1f6f56bae180b38a2eeb4220166669",
       "created_time": "2026-01-23T23:56:00.000Z",
       "last_edited_time": "2026-01-26T16:41:00.000Z"
+    },
+    {
+      "id": "2f4f6f56-bae1-809d-999f-e3d74f9d9d6a",
+      "name": "街頭演説",
+      "date": {
+        "start": "2026-01-27T12:00:00.000+09:00",
+        "end": null
+      },
+      "location": "大宮駅西口デッキ上",
+      "time": "",
+      "live_stream_url": "",
+      "detail_links": [
+        "https://x.com/moo_mirai",
+        "",
+        "",
+        ""
+      ],
+      "description": "武藤かずこアカウントよりご確認ください",
+      "notion_url": "https://www.notion.so/2f4f6f56bae1809d999fe3d74f9d9d6a",
+      "created_time": "2026-01-26T03:19:00.000Z",
+      "last_edited_time": "2026-01-26T17:17:00.000Z"
     },
     {
       "id": "2f3f6f56-bae1-8010-af91-dec5a785489d",
@@ -99,7 +78,7 @@
       "live_stream_url": "",
       "detail_links": [
         "https://x.com/michio_mirai",
-        "https://x.com/yamadaeri1982",
+        "",
         "",
         ""
       ],
@@ -120,7 +99,7 @@
       "live_stream_url": "",
       "detail_links": [
         "https://x.com/michio_mirai",
-        "https://x.com/yamadaeri1982",
+        "",
         "",
         ""
       ],
@@ -204,9 +183,9 @@
       "live_stream_url": "",
       "detail_links": [
         "https://x.com/satoshi_2125",
-        "https://www.instagram.com/satoshi.takayama.12/",
-        "https://x.com/mineshima_mirai",
-        "https://www.instagram.com/yuyamineshima_teammirai/"
+        "",
+        "",
+        ""
       ],
       "description": "以下のアカウントからご確認ください高山さとし\nhttps://x.com/satoshi_2125\nhttps://www.instagram.com/satoshi.takayama.12/\nみねしま侑也\nhttps://x.com/mineshima_mirai\nhttps://www.instagram.com/yuyamineshima_teammirai/",
       "notion_url": "https://www.notion.so/2f2f6f56bae1803788a8c0f774a0f1b7",
@@ -225,9 +204,9 @@
       "live_stream_url": "",
       "detail_links": [
         "https://x.com/satoshi_2125",
-        "https://www.instagram.com/satoshi.takayama.12/",
-        "https://x.com/mineshima_mirai",
-        "https://www.instagram.com/yuyamineshima_teammirai/"
+        "",
+        "",
+        ""
       ],
       "description": "以下のアカウントからご確認ください　高山さとし\nhttps://x.com/satoshi_2125\nhttps://www.instagram.com/satoshi.takayama.12/\nみねしま侑也\nhttps://x.com/mineshima_mirai\nhttps://www.instagram.com/yuyamineshima_teammirai/",
       "notion_url": "https://www.notion.so/2f4f6f56bae180819591f60a58d37d20",

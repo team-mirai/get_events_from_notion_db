@@ -179,10 +179,21 @@ def filter_future_events(events: list, now_jst: datetime) -> list:
 
 def main():
     """メイン処理"""
-    # 環境変数からデータベースIDを取得
+    # デバッグ: 環境変数の存在確認（値は出力しない）
+    print("=== Environment Variable Check ===")
+    token = os.environ.get("NOTION_API_TOKEN")
     database_id = os.environ.get("NOTION_DATABASE_ID")
+    
+    print(f"NOTION_API_TOKEN: {'SET' if token else 'NOT SET'} (length: {len(token) if token else 0})")
+    print(f"NOTION_DATABASE_ID: {'SET' if database_id else 'NOT SET'} (length: {len(database_id) if database_id else 0})")
+    print("==================================")
+    
+    # 環境変数からデータベースIDを取得
     if not database_id:
         raise ValueError("NOTION_DATABASE_ID environment variable is not set")
+    
+    if not token:
+        raise ValueError("NOTION_API_TOKEN environment variable is not set")
     
     # Notionクライアントを初期化
     notion = get_notion_client()

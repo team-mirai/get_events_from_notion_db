@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Notion APIからイベント情報を取得し、現在時刻以降のイベントをJSONとして保存するスクリプト
+Notion APIからイベント情報を取得し、今日以降のイベントをJSONとして保存するスクリプト
 """
 
 import json
@@ -30,7 +30,7 @@ def get_notion_client():
 
 def fetch_events_from_notion(notion: Client, database_id: str) -> list:
     """
-    NotionデータベースからJSTの現在時刻以降のイベントのみ取得
+    Notionデータベースから今日以降のイベントを取得
     """
     now_jst = datetime.now(JST)
     
@@ -136,49 +136,7 @@ def parse_event(page: dict) -> dict:
         "location": location,
         "live_stream_url": live_stream_url,
         "detail_link": detail_link,
-        "notion_url": page.get("url", ""),
-        "created_time": page.get("created_time", ""),
-        "last_edited_time": page.get("last_edited_time", "")
     }
-
-
-def filter_future_events(events: list, now_jst: datetime) -> list:
-    """
-    現在時刻以降のイベントのみをフィルタリング
-    日付のみの場合は今日の日付なら全て含める（時刻情報がないため）
-    """
-    filtered = []
-    
-    for event in events:
-        date_start = event.get("date", {}).get("start")
-        if not date_start:
-            continue
-        
-        # 日付文字列をパース
-        try:
-            # ISO形式（時刻含む）の場合
-            if "T" in date_start:
-                event_datetime = datetime.fromisoformat(date_start.replace("Z", "+00:00"))
-                # JSTに変換（UTCの場合は）
-                if event_datetime.tzinfo is None:
-                    event_datetime = event_datetime.replace(tzinfo=JST)
-                elif event_datetime.tzinfo.utcoffset(event_datetime).total_seconds() == 0:
-                    event_datetime = event_datetime.replace(tzinfo=timezone.utc).astimezone(JST)
-                # 現在時刻以降かチェック
-                if event_datetime >= now_jst:
-                    filtered.append(event)
-            else:
-                # 日付のみ（YYYY-MM-DD）の場合
-                event_date = datetime.strptime(date_start, "%Y-%m-%d").date()
-                today_date = now_jst.date()
-                # 今日以降の日付なら含める
-                if event_date >= today_date:
-                    filtered.append(event)
-        except (ValueError, AttributeError) as e:
-            print(f"Warning: Could not parse date '{date_start}': {e}")
-            continue
-    
-    return filtered
 
 
 def main():
@@ -212,11 +170,8 @@ def main():
     print(f"Found {len(raw_events)} events from today onwards")
     
     # イベントをパース
-    parsed_events = [parse_event(page) for page in raw_events]
-    
-    # 現在時刻以降のイベントのみをフィルタリング
-    events = filter_future_events(parsed_events, now_jst)
-    print(f"Filtered to {len(events)} events after current time")
+    events = [parse_event(page) for page in raw_events]
+    print(f"Total: {len(events)} events")
     
     # 出力データを作成
     output = {

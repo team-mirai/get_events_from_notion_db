@@ -123,6 +123,21 @@ def parse_event(page: dict) -> dict:
         elif live_prop.get("rich_text"):
             live_stream_url = "".join([t.get("plain_text", "") for t in live_prop["rich_text"]])
     
+    # 詳細リンク（URL）の取得
+    def get_url_property(prop_name: str) -> str:
+        prop = properties.get(prop_name)
+        if prop:
+            if prop.get("url"):
+                return prop["url"]
+            elif prop.get("rich_text"):
+                return "".join([t.get("plain_text", "") for t in prop["rich_text"]])
+        return ""
+    
+    detail_link_1 = get_url_property("詳細リンク")
+    detail_link_2 = get_url_property("詳細リンク2")
+    detail_link_3 = get_url_property("詳細リンク3")
+    detail_link_4 = get_url_property("詳細リンク4")
+    
     # 詳細の取得
     description = ""
     detail_prop = properties.get("詳細")
@@ -139,6 +154,12 @@ def parse_event(page: dict) -> dict:
         "location": location,
         "time": time,
         "live_stream_url": live_stream_url,
+        "detail_links": [
+            detail_link_1,
+            detail_link_2,
+            detail_link_3,
+            detail_link_4
+        ],
         "description": description,
         "notion_url": page.get("url", ""),
         "created_time": page.get("created_time", ""),

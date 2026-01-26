@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T07:43:08.451151+09:00",
+  "generated_at": "2026-01-27T07:52:15.685978+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 15,
+  "total_count": 19,
   "events": [
     {
       "id": "2f1f6f56-bae1-80b3-8a2e-eb4220166669",
-      "name": "街頭演説 (午後予定)",
+      "name": "【東京】街頭演説 ",
       "date": {
         "start": "2026-01-27",
         "end": null
@@ -16,7 +16,7 @@
     },
     {
       "id": "2f4f6f56-bae1-809d-999f-e3d74f9d9d6a",
-      "name": "街頭演説",
+      "name": "【埼玉】街頭演説",
       "date": {
         "start": "2026-01-27T12:00:00.000+09:00",
         "end": null
@@ -27,7 +27,7 @@
     },
     {
       "id": "2f2f6f56-bae1-805a-93a8-e82d600a97e8",
-      "name": "街頭演説",
+      "name": "【栃木】街頭演説",
       "date": {
         "start": "2026-01-27T18:00:00.000+09:00",
         "end": null
@@ -38,135 +38,179 @@
     },
     {
       "id": "2f3f6f56-bae1-8010-af91-dec5a785489d",
-      "name": "街頭演説",
+      "name": "【神奈川】街頭演説",
       "date": {
         "start": "2026-01-28",
         "end": null
       },
-      "location": "横浜",
+      "location": "横浜市内",
       "live_stream_url": "",
       "detail_link": "https://x.com/michio_mirai"
     },
     {
       "id": "2f2f6f56-bae1-8053-adde-d5d7090de701",
-      "name": "街頭演説",
+      "name": "【神奈川】街頭演説",
       "date": {
         "start": "2026-01-28",
         "end": null
       },
-      "location": "川崎",
+      "location": "川崎市内",
       "live_stream_url": "",
       "detail_link": "https://x.com/michio_mirai"
     },
     {
       "id": "2f2f6f56-bae1-8035-a497-e62436e4e7ea",
-      "name": "街頭演説",
+      "name": "【福岡】街頭演説",
       "date": {
         "start": "2026-01-29",
         "end": null
       },
-      "location": "福岡",
+      "location": "博多周辺",
       "live_stream_url": "",
       "detail_link": "https://x.com/AoiFurukawa"
     },
     {
       "id": "2f2f6f56-bae1-806e-a541-f8d6875b3f84",
-      "name": "街頭演説",
+      "name": "【兵庫】街頭演説",
       "date": {
         "start": "2026-01-29",
         "end": null
       },
-      "location": "兵庫",
+      "location": "神戸市内",
       "live_stream_url": "",
       "detail_link": "https://x.com/takeyoshi_mirai"
     },
     {
       "id": "2f2f6f56-bae1-807d-8e1b-f969627f615a",
-      "name": "街頭演説",
+      "name": "【大阪】街頭演説",
       "date": {
         "start": "2026-01-29",
         "end": null
       },
-      "location": "大阪",
+      "location": "大阪市内",
       "live_stream_url": "",
       "detail_link": "https://x.com/takeyoshi_mirai"
     },
     {
-      "id": "2f2f6f56-bae1-8037-88a8-c0f774a0f1b7",
-      "name": "街頭演説",
+      "id": "2f4f6f56-bae1-803c-aa65-e2053385b1b9",
+      "name": "【東京】街頭演説",
       "date": {
         "start": "2026-01-30",
         "end": null
       },
-      "location": "東京(吉祥寺、立川、八王子)",
+      "location": "立川駅周辺",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/satoshi_2125"
+    },
+    {
+      "id": "2f4f6f56-bae1-80b7-854b-f8280ec8dce9",
+      "name": "【東京】街頭演説",
+      "date": {
+        "start": "2026-01-30",
+        "end": null
+      },
+      "location": "八王子駅周辺",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/satoshi_2125"
+    },
+    {
+      "id": "2f2f6f56-bae1-8037-88a8-c0f774a0f1b7",
+      "name": "【東京】街頭演説",
+      "date": {
+        "start": "2026-01-30",
+        "end": null
+      },
+      "location": "吉祥寺駅周辺",
       "live_stream_url": "",
       "detail_link": "https://x.com/satoshi_2125"
     },
     {
       "id": "2f4f6f56-bae1-8081-9591-f60a58d37d20",
-      "name": "街頭演説",
+      "name": "【東京】街頭演説",
       "date": {
         "start": "2026-01-31",
         "end": null
       },
-      "location": "渋谷駅",
+      "location": "渋谷駅周辺",
       "live_stream_url": "",
       "detail_link": "https://x.com/satoshi_2125"
     },
     {
       "id": "2f4f6f56-bae1-8039-b307-f152a4fcc51f",
-      "name": "街頭演説",
+      "name": "【東京】街頭演説",
       "date": {
         "start": "2026-01-31",
         "end": null
       },
       "location": "都内",
       "live_stream_url": "",
-      "detail_link": ""
+      "detail_link": "https://x.com/satoshi_2125"
     },
     {
       "id": "2f4f6f56-bae1-8082-a324-db7ceca2e9a3",
-      "name": "街頭演説",
+      "name": "【千葉】街頭演説",
       "date": {
         "start": "2026-01-31",
         "end": null
       },
-      "location": "柏の葉",
+      "location": "柏の葉キャンパス駅周辺",
       "live_stream_url": "",
-      "detail_link": ""
+      "detail_link": "https://x.com/syuhei_mirai"
     },
     {
       "id": "2f2f6f56-bae1-80f6-9b0a-c2ab8745122e",
-      "name": "街頭演説",
+      "name": "【茨城】街頭演説",
       "date": {
         "start": "2026-01-31",
         "end": null
       },
-      "location": "つくば",
+      "location": "つくば駅周辺",
       "live_stream_url": "",
-      "detail_link": ""
+      "detail_link": "https://x.com/moo_mirai"
+    },
+    {
+      "id": "2f4f6f56-bae1-804d-895f-cbeb241ba25d",
+      "name": "【神奈川】街頭演説",
+      "date": {
+        "start": "2026-02-01",
+        "end": null
+      },
+      "location": "横浜市内",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/michio_mirai"
+    },
+    {
+      "id": "2f4f6f56-bae1-8060-a022-d530d9d9666c",
+      "name": "【千葉】街頭演説",
+      "date": {
+        "start": "2026-02-01",
+        "end": null
+      },
+      "location": "船橋駅周辺",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/syuhei_mirai"
     },
     {
       "id": "2f4f6f56-bae1-800b-af9c-f4c35ebaf537",
-      "name": "街頭演説",
+      "name": "【神奈川】街頭演説",
       "date": {
         "start": "2026-02-01",
         "end": null
       },
-      "location": "川崎　横浜",
+      "location": "川崎市内",
       "live_stream_url": "",
-      "detail_link": ""
+      "detail_link": "https://x.com/michio_mirai"
     },
     {
       "id": "2f4f6f56-bae1-8052-bf5a-e8f3eb4b0998",
-      "name": "街頭演説",
+      "name": "【千葉】街頭演説",
       "date": {
         "start": "2026-02-01",
         "end": null
       },
-      "location": "千葉駅　船橋駅",
+      "location": "千葉駅周辺　",
       "live_stream_url": "",
-      "detail_link": ""
+      "detail_link": "https://x.com/syuhei_mirai"
     }
   ]
 }

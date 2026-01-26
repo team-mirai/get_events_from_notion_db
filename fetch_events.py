@@ -17,7 +17,15 @@ def get_notion_client():
     token = os.environ.get("NOTION_API_TOKEN")
     if not token:
         raise ValueError("NOTION_API_TOKEN environment variable is not set")
-    return Client(auth=token)
+    
+    client = Client(auth=token)
+    
+    # デバッグ: クライアントの情報を出力
+    print(f"Notion client type: {type(client)}")
+    print(f"Databases endpoint type: {type(client.databases)}")
+    print(f"Databases methods: {[m for m in dir(client.databases) if not m.startswith('_')]}")
+    
+    return client
 
 
 def fetch_events_from_notion(notion: Client, database_id: str) -> list:

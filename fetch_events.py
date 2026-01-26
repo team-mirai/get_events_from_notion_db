@@ -108,12 +108,6 @@ def parse_event(page: dict) -> dict:
     if location_prop and location_prop.get("rich_text"):
         location = "".join([t.get("plain_text", "") for t in location_prop["rich_text"]])
     
-    # 時間の取得
-    time = ""
-    time_prop = properties.get("時間")
-    if time_prop and time_prop.get("rich_text"):
-        time = "".join([t.get("plain_text", "") for t in time_prop["rich_text"]])
-    
     # Live配信（URL）の取得
     live_stream_url = ""
     live_prop = properties.get("Live配信")
@@ -124,25 +118,13 @@ def parse_event(page: dict) -> dict:
             live_stream_url = "".join([t.get("plain_text", "") for t in live_prop["rich_text"]])
     
     # 詳細リンク（URL）の取得
-    def get_url_property(prop_name: str) -> str:
-        prop = properties.get(prop_name)
-        if prop:
-            if prop.get("url"):
-                return prop["url"]
-            elif prop.get("rich_text"):
-                return "".join([t.get("plain_text", "") for t in prop["rich_text"]])
-        return ""
-    
-    detail_link_1 = get_url_property("詳細リンク")
-    detail_link_2 = get_url_property("詳細リンク2")
-    detail_link_3 = get_url_property("詳細リンク3")
-    detail_link_4 = get_url_property("詳細リンク4")
-    
-    # 詳細の取得
-    description = ""
-    detail_prop = properties.get("詳細")
-    if detail_prop and detail_prop.get("rich_text"):
-        description = "".join([t.get("plain_text", "") for t in detail_prop["rich_text"]])
+    detail_link = ""
+    detail_link_prop = properties.get("詳細リンク")
+    if detail_link_prop:
+        if detail_link_prop.get("url"):
+            detail_link = detail_link_prop["url"]
+        elif detail_link_prop.get("rich_text"):
+            detail_link = "".join([t.get("plain_text", "") for t in detail_link_prop["rich_text"]])
     
     return {
         "id": page.get("id", ""),
@@ -152,15 +134,8 @@ def parse_event(page: dict) -> dict:
             "end": date_end
         },
         "location": location,
-        "time": time,
         "live_stream_url": live_stream_url,
-        "detail_links": [
-            detail_link_1,
-            detail_link_2,
-            detail_link_3,
-            detail_link_4
-        ],
-        "description": description,
+        "detail_link": detail_link,
         "notion_url": page.get("url", ""),
         "created_time": page.get("created_time", ""),
         "last_edited_time": page.get("last_edited_time", "")

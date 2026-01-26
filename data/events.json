@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T07:52:15.685978+09:00",
+  "generated_at": "2026-01-27T07:58:45.339473+09:00",
   "timezone": "Asia/Tokyo",
   "total_count": 19,
   "events": [
@@ -7,7 +7,7 @@
       "id": "2f1f6f56-bae1-80b3-8a2e-eb4220166669",
       "name": "【東京】街頭演説 ",
       "date": {
-        "start": "2026-01-27",
+        "start": "2026-01-27T10:30:00.000+09:00",
         "end": null
       },
       "location": "渋谷ハチ公口",
@@ -43,7 +43,7 @@
         "start": "2026-01-28",
         "end": null
       },
-      "location": "横浜市内",
+      "location": "横浜市内(調整中)",
       "live_stream_url": "",
       "detail_link": "https://x.com/michio_mirai"
     },
@@ -54,7 +54,7 @@
         "start": "2026-01-28",
         "end": null
       },
-      "location": "川崎市内",
+      "location": "川崎市内(調整中)",
       "live_stream_url": "",
       "detail_link": "https://x.com/michio_mirai"
     },
@@ -65,7 +65,7 @@
         "start": "2026-01-29",
         "end": null
       },
-      "location": "博多周辺",
+      "location": "博多周辺(調整中)",
       "live_stream_url": "",
       "detail_link": "https://x.com/AoiFurukawa"
     },
@@ -76,7 +76,7 @@
         "start": "2026-01-29",
         "end": null
       },
-      "location": "神戸市内",
+      "location": "神戸市内(調整中)",
       "live_stream_url": "",
       "detail_link": "https://x.com/takeyoshi_mirai"
     },
@@ -87,7 +87,7 @@
         "start": "2026-01-29",
         "end": null
       },
-      "location": "大阪市内",
+      "location": "大阪市内(調整中)",
       "live_stream_url": "",
       "detail_link": "https://x.com/takeyoshi_mirai"
     },
@@ -98,7 +98,7 @@
         "start": "2026-01-30",
         "end": null
       },
-      "location": "立川駅周辺",
+      "location": "立川駅周辺(調整中)",
       "live_stream_url": "",
       "detail_link": "https://x.com/satoshi_2125"
     },
@@ -109,7 +109,7 @@
         "start": "2026-01-30",
         "end": null
       },
-      "location": "八王子駅周辺",
+      "location": "八王子駅周辺(調整中)",
       "live_stream_url": "",
       "detail_link": "https://x.com/satoshi_2125"
     },
@@ -120,7 +120,7 @@
         "start": "2026-01-30",
         "end": null
       },
-      "location": "吉祥寺駅周辺",
+      "location": "吉祥寺駅周辺(調整中)",
       "live_stream_url": "",
       "detail_link": "https://x.com/satoshi_2125"
     },
@@ -131,42 +131,42 @@
         "start": "2026-01-31",
         "end": null
       },
-      "location": "渋谷駅周辺",
+      "location": "渋谷駅周辺(調整中)",
       "live_stream_url": "",
       "detail_link": "https://x.com/satoshi_2125"
-    },
-    {
-      "id": "2f4f6f56-bae1-8039-b307-f152a4fcc51f",
-      "name": "【東京】街頭演説",
-      "date": {
-        "start": "2026-01-31",
-        "end": null
-      },
-      "location": "都内",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/satoshi_2125"
-    },
-    {
-      "id": "2f4f6f56-bae1-8082-a324-db7ceca2e9a3",
-      "name": "【千葉】街頭演説",
-      "date": {
-        "start": "2026-01-31",
-        "end": null
-      },
-      "location": "柏の葉キャンパス駅周辺",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/syuhei_mirai"
     },
     {
       "id": "2f2f6f56-bae1-80f6-9b0a-c2ab8745122e",
       "name": "【茨城】街頭演説",
       "date": {
-        "start": "2026-01-31",
+        "start": "2026-01-31T09:30:00.000+09:00",
         "end": null
       },
-      "location": "つくば駅周辺",
+      "location": "つくば駅周辺(調整中)",
       "live_stream_url": "",
       "detail_link": "https://x.com/moo_mirai"
+    },
+    {
+      "id": "2f4f6f56-bae1-8082-a324-db7ceca2e9a3",
+      "name": "【千葉】街頭演説",
+      "date": {
+        "start": "2026-01-31T11:15:00.000+09:00",
+        "end": null
+      },
+      "location": "柏の葉キャンパス駅周辺(調整中)",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/syuhei_mirai"
+    },
+    {
+      "id": "2f4f6f56-bae1-8039-b307-f152a4fcc51f",
+      "name": "【東京】街頭演説",
+      "date": {
+        "start": "2026-01-31T13:00:00.000+09:00",
+        "end": null
+      },
+      "location": "秋葉原駅周辺(調整中)",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/satoshi_2125"
     },
     {
       "id": "2f4f6f56-bae1-804d-895f-cbeb241ba25d",
@@ -175,7 +175,7 @@
         "start": "2026-02-01",
         "end": null
       },
-      "location": "横浜市内",
+      "location": "横浜市内(調整中)",
       "live_stream_url": "",
       "detail_link": "https://x.com/michio_mirai"
     },
@@ -186,7 +186,7 @@
         "start": "2026-02-01",
         "end": null
       },
-      "location": "船橋駅周辺",
+      "location": "船橋駅周辺(調整中)",
       "live_stream_url": "",
       "detail_link": "https://x.com/syuhei_mirai"
     },
@@ -197,7 +197,7 @@
         "start": "2026-02-01",
         "end": null
       },
-      "location": "川崎市内",
+      "location": "川崎市内(調整中)",
       "live_stream_url": "",
       "detail_link": "https://x.com/michio_mirai"
     },
@@ -208,7 +208,7 @@
         "start": "2026-02-01",
         "end": null
       },
-      "location": "千葉駅周辺　",
+      "location": "千葉駅周辺(調整中)",
       "live_stream_url": "",
       "detail_link": "https://x.com/syuhei_mirai"
     }

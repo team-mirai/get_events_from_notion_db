@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-28T01:02:39.178152+09:00",
+  "generated_at": "2026-01-28T01:13:59.792985+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 6,
+  "total_count": 2,
   "events": [
     {
       "id": "2f2f6f56-bae1-8053-adde-d5d7090de701",
@@ -22,50 +22,6 @@
         "end": null
       },
       "location": "横浜駅相鉄口",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/michio_mirai"
-    },
-    {
-      "id": "2f4f6f56-bae1-8052-bf5a-e8f3eb4b0998",
-      "name": "【千葉】街頭演説",
-      "date": {
-        "start": "2026-02-01T08:00:00.000+09:00",
-        "end": null
-      },
-      "location": "千葉駅周辺(調整中)",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/syuhei_mirai"
-    },
-    {
-      "id": "2f4f6f56-bae1-804d-895f-cbeb241ba25d",
-      "name": "【神奈川】街頭演説",
-      "date": {
-        "start": "2026-02-01",
-        "end": null
-      },
-      "location": "横浜市内(調整中)",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/michio_mirai"
-    },
-    {
-      "id": "2f4f6f56-bae1-8060-a022-d530d9d9666c",
-      "name": "【千葉】街頭演説",
-      "date": {
-        "start": "2026-02-01",
-        "end": null
-      },
-      "location": "船橋駅周辺(調整中)",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/syuhei_mirai"
-    },
-    {
-      "id": "2f4f6f56-bae1-800b-af9c-f4c35ebaf537",
-      "name": "【神奈川】街頭演説",
-      "date": {
-        "start": "2026-02-01T12:00:00.000+09:00",
-        "end": null
-      },
-      "location": "川崎市内(調整中)",
       "live_stream_url": "",
       "detail_link": "https://x.com/michio_mirai"
     }

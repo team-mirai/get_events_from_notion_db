@@ -1,52 +1,8 @@
 {
-  "generated_at": "2026-01-27T23:51:26.813559+09:00",
+  "generated_at": "2026-01-28T00:02:44.251751+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 23,
+  "total_count": 19,
   "events": [
-    {
-      "id": "2f1f6f56-bae1-80b3-8a2e-eb4220166669",
-      "name": "【東京】街頭演説 ",
-      "date": {
-        "start": "2026-01-27T10:30:00.000+09:00",
-        "end": null
-      },
-      "location": "渋谷ハチ公口",
-      "live_stream_url": " https://www.youtube.com/live/94bNVSixxiI?si=MUwFkAVFWdESII4Q",
-      "detail_link": "https://x.com/satoshi_2125"
-    },
-    {
-      "id": "2f2f6f56-bae1-8023-b9b5-fade908552e0",
-      "name": "【千葉】街頭演説",
-      "date": {
-        "start": "2026-01-27T13:00:00.000+09:00",
-        "end": null
-      },
-      "location": " 新浦安駅　駅前広場",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/syuhei_mirai"
-    },
-    {
-      "id": "2f4f6f56-bae1-809d-999f-e3d74f9d9d6a",
-      "name": "【埼玉】街頭演説",
-      "date": {
-        "start": "2026-01-27T15:30:00.000+09:00",
-        "end": null
-      },
-      "location": "大宮駅西口デッキ上",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/moo_mirai"
-    },
-    {
-      "id": "2f2f6f56-bae1-805a-93a8-e82d600a97e8",
-      "name": "【栃木】街頭演説",
-      "date": {
-        "start": "2026-01-27T18:00:00.000+09:00",
-        "end": null
-      },
-      "location": "宇都宮駅西口トナリエ前",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/moo_mirai"
-    },
     {
       "id": "2f2f6f56-bae1-8053-adde-d5d7090de701",
       "name": "【神奈川】街頭演説",

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-27T11:01:52.431567+09:00",
+  "generated_at": "2026-01-27T11:54:13.239787+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 21,
+  "total_count": 22,
   "events": [
     {
       "id": "2f1f6f56-bae1-80b3-8a2e-eb4220166669",
@@ -54,7 +54,7 @@
         "start": "2026-01-28T17:45:00.000+09:00",
         "end": null
       },
-      "location": "川崎市内(調整中)",
+      "location": "川崎駅東口",
       "live_stream_url": "",
       "detail_link": "https://x.com/michio_mirai"
     },
@@ -65,7 +65,7 @@
         "start": "2026-01-28T19:15:00.000+09:00",
         "end": null
       },
-      "location": "横浜市内(調整中)",
+      "location": "横浜駅相鉄口",
       "live_stream_url": "",
       "detail_link": "https://x.com/michio_mirai"
     },
@@ -76,7 +76,18 @@
         "start": "2026-01-29T08:00:00.000+09:00",
         "end": null
       },
-      "location": "大阪市内(調整中)",
+      "location": "大阪駅（ヨドバシ梅田北側・LINKS）",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/takeyoshi_mirai"
+    },
+    {
+      "id": "2f5f6f56-bae1-802f-a4e2-f542e1588a57",
+      "name": "【大阪】街頭演説",
+      "date": {
+        "start": "2026-01-29T09:15:00.000+09:00",
+        "end": null
+      },
+      "location": "千里中央駅（北大阪急行 千里中央駅 南改札前）",
       "live_stream_url": "",
       "detail_link": "https://x.com/takeyoshi_mirai"
     },
@@ -84,10 +95,10 @@
       "id": "2f2f6f56-bae1-806e-a541-f8d6875b3f84",
       "name": "【兵庫】街頭演説",
       "date": {
-        "start": "2026-01-29",
+        "start": "2026-01-29T10:20:00.000+09:00",
         "end": null
       },
-      "location": "神戸市内(調整中)",
+      "location": "新神戸駅（地下鉄 新神戸駅 改札外コンコース）",
       "live_stream_url": "",
       "detail_link": "https://x.com/takeyoshi_mirai"
     },

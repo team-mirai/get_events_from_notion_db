@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-27T09:46:49.762657+09:00",
+  "generated_at": "2026-01-27T10:17:28.542946+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 19,
+  "total_count": 21,
   "events": [
     {
       "id": "2f1f6f56-bae1-80b3-8a2e-eb4220166669",
@@ -15,10 +15,21 @@
       "detail_link": "https://x.com/satoshi_2125"
     },
     {
+      "id": "2f2f6f56-bae1-8023-b9b5-fade908552e0",
+      "name": "【千葉】街頭演説",
+      "date": {
+        "start": "2026-01-27T13:00:00.000+09:00",
+        "end": null
+      },
+      "location": " 新浦安駅　駅前広場",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/syuhei_mirai"
+    },
+    {
       "id": "2f4f6f56-bae1-809d-999f-e3d74f9d9d6a",
       "name": "【埼玉】街頭演説",
       "date": {
-        "start": "2026-01-27T12:00:00.000+09:00",
+        "start": "2026-01-27T15:30:00.000+09:00",
         "end": null
       },
       "location": "大宮駅西口デッキ上",
@@ -37,21 +48,10 @@
       "detail_link": "https://x.com/moo_mirai"
     },
     {
-      "id": "2f3f6f56-bae1-8010-af91-dec5a785489d",
-      "name": "【神奈川】街頭演説",
-      "date": {
-        "start": "2026-01-28",
-        "end": null
-      },
-      "location": "横浜市内(調整中)",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/michio_mirai"
-    },
-    {
       "id": "2f2f6f56-bae1-8053-adde-d5d7090de701",
       "name": "【神奈川】街頭演説",
       "date": {
-        "start": "2026-01-28",
+        "start": "2026-01-28T17:45:00.000+09:00",
         "end": null
       },
       "location": "川崎市内(調整中)",
@@ -59,15 +59,26 @@
       "detail_link": "https://x.com/michio_mirai"
     },
     {
-      "id": "2f2f6f56-bae1-8035-a497-e62436e4e7ea",
-      "name": "【福岡】街頭演説",
+      "id": "2f3f6f56-bae1-8010-af91-dec5a785489d",
+      "name": "【神奈川】街頭演説",
       "date": {
-        "start": "2026-01-29",
+        "start": "2026-01-28T19:15:00.000+09:00",
         "end": null
       },
-      "location": "博多周辺(調整中)",
+      "location": "横浜市内(調整中)",
       "live_stream_url": "",
-      "detail_link": "https://x.com/AoiFurukawa"
+      "detail_link": "https://x.com/michio_mirai"
+    },
+    {
+      "id": "2f2f6f56-bae1-807d-8e1b-f969627f615a",
+      "name": "【大阪】街頭演説",
+      "date": {
+        "start": "2026-01-29T08:00:00.000+09:00",
+        "end": null
+      },
+      "location": "大阪市内(調整中)",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/takeyoshi_mirai"
     },
     {
       "id": "2f2f6f56-bae1-806e-a541-f8d6875b3f84",
@@ -81,15 +92,15 @@
       "detail_link": "https://x.com/takeyoshi_mirai"
     },
     {
-      "id": "2f2f6f56-bae1-807d-8e1b-f969627f615a",
-      "name": "【大阪】街頭演説",
+      "id": "2f2f6f56-bae1-8035-a497-e62436e4e7ea",
+      "name": "【福岡】街頭演説",
       "date": {
-        "start": "2026-01-29",
+        "start": "2026-01-29T18:00:00.000+09:00",
         "end": null
       },
-      "location": "大阪市内(調整中)",
+      "location": "博多周辺(調整中)",
       "live_stream_url": "",
-      "detail_link": "https://x.com/takeyoshi_mirai"
+      "detail_link": "https://x.com/AoiFurukawa"
     },
     {
       "id": "2f4f6f56-bae1-803c-aa65-e2053385b1b9",
@@ -117,21 +128,10 @@
       "id": "2f2f6f56-bae1-8037-88a8-c0f774a0f1b7",
       "name": "【東京】街頭演説",
       "date": {
-        "start": "2026-01-30",
+        "start": "2026-01-30T17:30:00.000+09:00",
         "end": null
       },
       "location": "吉祥寺駅周辺(調整中)",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/satoshi_2125"
-    },
-    {
-      "id": "2f4f6f56-bae1-8081-9591-f60a58d37d20",
-      "name": "【東京】街頭演説",
-      "date": {
-        "start": "2026-01-31",
-        "end": null
-      },
-      "location": "渋谷駅周辺(調整中)",
       "live_stream_url": "",
       "detail_link": "https://x.com/satoshi_2125"
     },
@@ -165,6 +165,28 @@
         "end": null
       },
       "location": "秋葉原駅周辺(調整中)",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/satoshi_2125"
+    },
+    {
+      "id": "2f4f6f56-bae1-8081-9591-f60a58d37d20",
+      "name": "【東京】街頭演説",
+      "date": {
+        "start": "2026-01-31T17:30:00.000+09:00",
+        "end": null
+      },
+      "location": "渋谷駅周辺(調整中)",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/satoshi_2125"
+    },
+    {
+      "id": "2f5f6f56-bae1-80f3-8d86-c49c1eada374",
+      "name": "【東京】街頭演説",
+      "date": {
+        "start": "2026-01-31T19:15:00.000+09:00",
+        "end": null
+      },
+      "location": "新宿駅周辺（調整中）",
       "live_stream_url": "",
       "detail_link": "https://x.com/satoshi_2125"
     },

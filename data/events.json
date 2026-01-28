@@ -1,41 +1,8 @@
 {
-  "generated_at": "2026-01-28T23:53:26.997620+09:00",
+  "generated_at": "2026-01-29T00:03:34.304334+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 8,
+  "total_count": 5,
   "events": [
-    {
-      "id": "2f2f6f56-bae1-8053-adde-d5d7090de701",
-      "name": "【神奈川】街頭演説",
-      "date": {
-        "start": "2026-01-28T17:45:00.000+09:00",
-        "end": null
-      },
-      "location": "川崎駅東口",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/michio_mirai"
-    },
-    {
-      "id": "2f3f6f56-bae1-8010-af91-dec5a785489d",
-      "name": "【神奈川】街頭演説",
-      "date": {
-        "start": "2026-01-28T19:15:00.000+09:00",
-        "end": null
-      },
-      "location": "横浜駅相鉄口",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/michio_mirai"
-    },
-    {
-      "id": "2f5f6f56-bae1-8083-90d2-d7083e8417ee",
-      "name": "【京都】街頭演説",
-      "date": {
-        "start": "2026-01-29T08:00:00.000+09:00",
-        "end": null
-      },
-      "location": "JR二条駅西口",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/sakai_mirai"
-    },
     {
       "id": "2f5f6f56-bae1-80bb-afda-d10716ed4724",
       "name": "【大阪】街頭演説",

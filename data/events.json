@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-28T12:54:04.261102+09:00",
+  "generated_at": "2026-01-28T13:16:10.343179+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 2,
+  "total_count": 4,
   "events": [
     {
       "id": "2f2f6f56-bae1-8053-adde-d5d7090de701",
@@ -24,6 +24,28 @@
       "location": "横浜駅相鉄口",
       "live_stream_url": "",
       "detail_link": "https://x.com/michio_mirai"
+    },
+    {
+      "id": "2f5f6f56-bae1-8083-90d2-d7083e8417ee",
+      "name": "【京都】街頭演説",
+      "date": {
+        "start": "2026-01-29T08:00:00.000+09:00",
+        "end": null
+      },
+      "location": "JR二条駅西口",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/sakai_mirai"
+    },
+    {
+      "id": "2f5f6f56-bae1-80bb-afda-d10716ed4724",
+      "name": "【大阪】街頭演説",
+      "date": {
+        "start": "2026-01-29T09:45:00.000+09:00",
+        "end": null
+      },
+      "location": "大阪駅（ヨドバシ梅田北側・LINKS UMEDA 1F外）",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/takeyoshi_mirai"
     }
   ]
 }

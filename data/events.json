@@ -1,63 +1,8 @@
 {
-  "generated_at": "2026-01-29T23:57:21.325498+09:00",
+  "generated_at": "2026-01-30T00:13:48.722927+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 7,
+  "total_count": 2,
   "events": [
-    {
-      "id": "2f5f6f56-bae1-80bb-afda-d10716ed4724",
-      "name": "【大阪】街頭演説",
-      "date": {
-        "start": "2026-01-29T09:45:00.000+09:00",
-        "end": null
-      },
-      "location": "大阪駅（ヨドバシ梅田北側・LINKS UMEDA 1F外）",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/takeyoshi_mirai"
-    },
-    {
-      "id": "2f5f6f56-bae1-800c-b412-f0fcec144902",
-      "name": "【福岡】街頭演説　",
-      "date": {
-        "start": "2026-01-29T14:00:00.000+09:00",
-        "end": null
-      },
-      "location": "小倉駅小倉城口広場",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/AoiFurukawa"
-    },
-    {
-      "id": "2f5f6f56-bae1-80ae-b647-d127f3719b94",
-      "name": "【熊本】街頭演説　",
-      "date": {
-        "start": "2026-01-29T17:00:00.000+09:00",
-        "end": null
-      },
-      "location": "熊本びぷれす前",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/AoiFurukawa"
-    },
-    {
-      "id": "2f5f6f56-bae1-809d-a13e-df1dd4d9fd68",
-      "name": "【福岡】街頭演説　",
-      "date": {
-        "start": "2026-01-29T19:20:00.000+09:00",
-        "end": null
-      },
-      "location": "博多駅博多口",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/AoiFurukawa"
-    },
-    {
-      "id": "2f6f6f56-bae1-805d-9cb3-efd6931f4d16",
-      "name": "【福岡】街頭演説　",
-      "date": {
-        "start": "2026-01-30T08:00:00.000+09:00",
-        "end": null
-      },
-      "location": "博多駅博多口",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/AoiFurukawa"
-    },
     {
       "id": "2f6f6f56-bae1-801c-9af2-c0295db10b08",
       "name": "【東京】街頭演説　",

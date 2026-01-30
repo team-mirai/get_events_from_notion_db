@@ -1,30 +1,8 @@
 {
-  "generated_at": "2026-01-30T23:58:30.896985+09:00",
+  "generated_at": "2026-01-31T00:15:22.796958+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 9,
+  "total_count": 7,
   "events": [
-    {
-      "id": "2f6f6f56-bae1-801c-9af2-c0295db10b08",
-      "name": "【東京】街頭演説　",
-      "date": {
-        "start": "2026-01-30T17:25:00.000+09:00",
-        "end": null
-      },
-      "location": "調布駅北口ロータリー",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/satoshi_2125"
-    },
-    {
-      "id": "2f7f6f56-bae1-80e1-bc19-f9182abf3b97",
-      "name": "【東京】街頭演説　",
-      "date": {
-        "start": "2026-01-30T19:00:00.000+09:00",
-        "end": null
-      },
-      "location": "立川駅北口・ペディストリアンデッキ上",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/satoshi_2125"
-    },
     {
       "id": "2f7f6f56-bae1-80ec-b8ab-f869726ea73b",
       "name": "【群馬】街頭演説　",

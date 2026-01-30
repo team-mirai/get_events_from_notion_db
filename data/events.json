@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-30T16:57:12.806449+09:00",
+  "generated_at": "2026-01-30T17:12:20.671997+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 2,
+  "total_count": 9,
   "events": [
     {
       "id": "2f6f6f56-bae1-801c-9af2-c0295db10b08",
@@ -24,6 +24,83 @@
       "location": "立川駅北口・ペディストリアンデッキ上",
       "live_stream_url": "",
       "detail_link": "https://x.com/satoshi_2125"
+    },
+    {
+      "id": "2f7f6f56-bae1-80ec-b8ab-f869726ea73b",
+      "name": "【群馬】街頭演説　",
+      "date": {
+        "start": "2026-01-31T10:30:00.000+09:00",
+        "end": null
+      },
+      "location": "高崎駅東口  ",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/moo_mirai"
+    },
+    {
+      "id": "2f8f6f56-bae1-8054-8d64-ee7cc03793b0",
+      "name": "【埼玉】街頭演説　",
+      "date": {
+        "start": "2026-01-31T12:00:00.000+09:00",
+        "end": null
+      },
+      "location": "大宮駅東口",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/moo_mirai"
+    },
+    {
+      "id": "2f8f6f56-bae1-8094-9d40-e94b9cf6eeb7",
+      "name": "【埼玉】街頭演説　",
+      "date": {
+        "start": "2026-01-31T13:30:00.000+09:00",
+        "end": null
+      },
+      "location": "川越駅西口",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/moo_mirai"
+    },
+    {
+      "id": "2f8f6f56-bae1-801d-9277-e6ae8abc78f3",
+      "name": "【埼玉】街頭演説　",
+      "date": {
+        "start": "2026-01-31T15:00:00.000+09:00",
+        "end": null
+      },
+      "location": "所沢駅西口1階",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/moo_mirai"
+    },
+    {
+      "id": "2f8f6f56-bae1-8010-8965-d3c00318ddda",
+      "name": "【埼玉】街頭演説　",
+      "date": {
+        "start": "2026-01-31T16:45:00.000+09:00",
+        "end": null
+      },
+      "location": "浦和駅東口パルコ前  ",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/moo_mirai"
+    },
+    {
+      "id": "2f8f6f56-bae1-807c-9cd9-f52e2da8481e",
+      "name": "【東京】街頭演説　",
+      "date": {
+        "start": "2026-01-31T18:30:00.000+09:00",
+        "end": null
+      },
+      "location": "渋谷駅スクランブル交差点",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/mineshima_mirai"
+    },
+    {
+      "id": "2f8f6f56-bae1-80ae-90c2-eda62165ef48",
+      "name": "【東京】街頭演説　",
+      "date": {
+        "start": "2026-01-31T19:15:00.000+09:00",
+        "end": null
+      },
+      "location": "恵比寿駅西口 ",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/mineshima_mirai"
     }
   ]
 }

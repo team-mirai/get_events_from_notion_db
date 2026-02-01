@@ -1,63 +1,8 @@
 {
-  "generated_at": "2026-02-01T23:57:20.425013+09:00",
+  "generated_at": "2026-02-02T00:07:16.181625+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 8,
+  "total_count": 3,
   "events": [
-    {
-      "id": "2f8f6f56-bae1-8061-94f2-f05ea976b797",
-      "name": "【東京】街頭演説　",
-      "date": {
-        "start": "2026-02-01T13:00:00.000+09:00",
-        "end": null
-      },
-      "location": "浜松町駅北口",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/mineshima_mirai"
-    },
-    {
-      "id": "2f9f6f56-bae1-80a2-bcb3-e70c0e85bcde",
-      "name": "【東京】街頭演説　",
-      "date": {
-        "start": "2026-02-01T14:30:00.000+09:00",
-        "end": null
-      },
-      "location": "六本木ヒルズけやき坂",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/mineshima_mirai"
-    },
-    {
-      "id": "2f9f6f56-bae1-801e-8388-f14d6407fd9d",
-      "name": "【東京】街頭演説　",
-      "date": {
-        "start": "2026-02-01T15:30:00.000+09:00",
-        "end": null
-      },
-      "location": "麻布十番商店街入口",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/mineshima_mirai"
-    },
-    {
-      "id": "2f9f6f56-bae1-805d-b37a-cfe68b0c00e6",
-      "name": "【東京】街頭演説　",
-      "date": {
-        "start": "2026-02-01T17:00:00.000+09:00",
-        "end": null
-      },
-      "location": "恵比寿駅西口広場",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/mineshima_mirai"
-    },
-    {
-      "id": "2f9f6f56-bae1-80a1-aa47-f7ec4555e19e",
-      "name": "【東京】街頭演説　",
-      "date": {
-        "start": "2026-02-01T19:00:00.000+09:00",
-        "end": null
-      },
-      "location": "池袋駅東口",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/mineshima_mirai"
-    },
     {
       "id": "2faf6f56-bae1-8046-bd7f-cf3b2a3df651",
       "name": "【静岡】街頭演説　",

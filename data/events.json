@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-02T13:54:38.998749+09:00",
+  "generated_at": "2026-02-02T14:26:51.009526+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 3,
+  "total_count": 6,
   "events": [
     {
       "id": "2faf6f56-bae1-8046-bd7f-cf3b2a3df651",
@@ -35,6 +35,39 @@
       "location": "名古屋駅前 JRゲートタワー前",
       "live_stream_url": "",
       "detail_link": "https://x.com/Btaros"
+    },
+    {
+      "id": "2fbf6f56-bae1-80e9-b2f4-f1ae7d6fb061",
+      "name": "【茨城】街頭演説　",
+      "date": {
+        "start": "2026-02-03T12:00:00.000+09:00",
+        "end": null
+      },
+      "location": "つくば駅 A3出口付近",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/moo_mirai"
+    },
+    {
+      "id": "2fbf6f56-bae1-806d-bd8d-ca01f47e9b34",
+      "name": "【茨城】街頭演説　",
+      "date": {
+        "start": "2026-02-03T13:15:00.000+09:00",
+        "end": null
+      },
+      "location": "守谷駅 西口駅前広場",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/moo_mirai"
+    },
+    {
+      "id": "2fbf6f56-bae1-80ad-8368-e24576d7ad3b",
+      "name": "【埼玉】街頭演説　",
+      "date": {
+        "start": "2026-02-03T15:15:00.000+09:00",
+        "end": null
+      },
+      "location": "南越谷駅・新越谷駅 ロータリー付近",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/moo_mirai"
     }
   ]
 }

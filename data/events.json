@@ -1,41 +1,8 @@
 {
-  "generated_at": "2026-02-02T23:42:07.239683+09:00",
+  "generated_at": "2026-02-03T00:01:41.659776+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 6,
+  "total_count": 3,
   "events": [
-    {
-      "id": "2faf6f56-bae1-8046-bd7f-cf3b2a3df651",
-      "name": "【静岡】街頭演説　",
-      "date": {
-        "start": "2026-02-02T15:40:00.000+09:00",
-        "end": null
-      },
-      "location": "静岡駅北口",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/Btaros"
-    },
-    {
-      "id": "2faf6f56-bae1-804d-975c-d5df181f5fc9",
-      "name": "【静岡】街頭演説　",
-      "date": {
-        "start": "2026-02-02T17:10:00.000+09:00",
-        "end": null
-      },
-      "location": "浜松駅北口",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/Btaros"
-    },
-    {
-      "id": "2faf6f56-bae1-802e-9071-e575c39a2787",
-      "name": "【愛知】街頭演説　",
-      "date": {
-        "start": "2026-02-02T18:50:00.000+09:00",
-        "end": null
-      },
-      "location": "名古屋駅前 JRゲートタワー前",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/Btaros"
-    },
     {
       "id": "2fbf6f56-bae1-80e9-b2f4-f1ae7d6fb061",
       "name": "【茨城】街頭演説　",

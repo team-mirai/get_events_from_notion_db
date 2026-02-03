@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-04T08:13:18.503844+09:00",
+  "generated_at": "2026-02-04T08:26:33.915883+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 5,
+  "total_count": 4,
   "events": [
     {
       "id": "2fcf6f56-bae1-80e4-8307-c99834f0ca58",
@@ -24,17 +24,6 @@
       "location": "広尾駅　2番出口",
       "live_stream_url": "",
       "detail_link": "https://x.com/mineshima_mirai"
-    },
-    {
-      "id": "2fcf6f56-bae1-8069-ac0f-d9b338d6e59d",
-      "name": "【東京】街頭演説　　",
-      "date": {
-        "start": "2026-02-04T17:00:00.000+09:00",
-        "end": null
-      },
-      "location": "池袋駅　東口 ",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/satoshi_2125"
     },
     {
       "id": "2fcf6f56-bae1-80c2-98a2-d0f6ffe6813c",

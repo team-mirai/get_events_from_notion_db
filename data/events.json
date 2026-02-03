@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-03T12:12:17.338765+09:00",
+  "generated_at": "2026-02-03T13:01:05.631680+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 3,
+  "total_count": 4,
   "events": [
     {
       "id": "2fbf6f56-bae1-80e9-b2f4-f1ae7d6fb061",
@@ -35,6 +35,17 @@
       "location": "南越谷駅・新越谷駅 ロータリー付近",
       "live_stream_url": "",
       "detail_link": "https://x.com/moo_mirai"
+    },
+    {
+      "id": "2fcf6f56-bae1-8065-b022-f5fc18b64b6d",
+      "name": "【千葉】街頭演説　",
+      "date": {
+        "start": "2026-02-03T17:00:00.000+09:00",
+        "end": null
+      },
+      "location": "新浦安駅前広場",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/syuhei_mirai"
     }
   ]
 }

@@ -1,52 +1,8 @@
 {
-  "generated_at": "2026-02-03T23:46:57.476600+09:00",
+  "generated_at": "2026-02-04T00:06:35.295445+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 9,
+  "total_count": 5,
   "events": [
-    {
-      "id": "2fbf6f56-bae1-80e9-b2f4-f1ae7d6fb061",
-      "name": "【茨城】街頭演説　",
-      "date": {
-        "start": "2026-02-03T12:00:00.000+09:00",
-        "end": null
-      },
-      "location": "つくば駅 A3出口付近",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/moo_mirai"
-    },
-    {
-      "id": "2fbf6f56-bae1-806d-bd8d-ca01f47e9b34",
-      "name": "【茨城】街頭演説　",
-      "date": {
-        "start": "2026-02-03T13:15:00.000+09:00",
-        "end": null
-      },
-      "location": "守谷駅 西口駅前広場",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/moo_mirai"
-    },
-    {
-      "id": "2fbf6f56-bae1-80ad-8368-e24576d7ad3b",
-      "name": "【埼玉】街頭演説　",
-      "date": {
-        "start": "2026-02-03T15:15:00.000+09:00",
-        "end": null
-      },
-      "location": "南越谷駅・新越谷駅 ロータリー付近",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/moo_mirai"
-    },
-    {
-      "id": "2fcf6f56-bae1-8065-b022-f5fc18b64b6d",
-      "name": "【千葉】街頭演説　",
-      "date": {
-        "start": "2026-02-03T17:00:00.000+09:00",
-        "end": null
-      },
-      "location": "新浦安駅前広場",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/syuhei_mirai"
-    },
     {
       "id": "2fcf6f56-bae1-80e4-8307-c99834f0ca58",
       "name": "【東京】街頭演説　　",

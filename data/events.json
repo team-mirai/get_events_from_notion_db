@@ -1,63 +1,8 @@
 {
-  "generated_at": "2026-02-05T23:48:50.671094+09:00",
+  "generated_at": "2026-02-06T00:07:26.456880+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 18,
+  "total_count": 13,
   "events": [
-    {
-      "id": "2fdf6f56-bae1-80fc-9952-fc7d56d85d17",
-      "name": "【鹿児島】街頭演説",
-      "date": {
-        "start": "2026-02-05T12:40:00.000+09:00",
-        "end": null
-      },
-      "location": "天文館　献血センター前口",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/AoiFurukawa"
-    },
-    {
-      "id": "2fdf6f56-bae1-800f-88f0-d87c57f0817b",
-      "name": "【鹿児島】街頭演説",
-      "date": {
-        "start": "2026-02-05T13:30:00.000+09:00",
-        "end": null
-      },
-      "location": "鹿児島中央駅　ライカ前",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/AoiFurukawa"
-    },
-    {
-      "id": "2fdf6f56-bae1-80a6-8068-c092f338ba8e",
-      "name": "【福岡】街頭演説",
-      "date": {
-        "start": "2026-02-05T16:15:00.000+09:00",
-        "end": null
-      },
-      "location": "大橋駅　東口",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/AoiFurukawa"
-    },
-    {
-      "id": "2fdf6f56-bae1-807a-8a7f-d8cf66552942",
-      "name": "【福岡】街頭演説",
-      "date": {
-        "start": "2026-02-05T17:45:00.000+09:00",
-        "end": null
-      },
-      "location": "岩田屋前",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/AoiFurukawa"
-    },
-    {
-      "id": "2fdf6f56-bae1-80d3-8863-d2c463e6a683",
-      "name": "【福岡】街頭演説",
-      "date": {
-        "start": "2026-02-05T19:00:00.000+09:00",
-        "end": null
-      },
-      "location": "博多駅　博多口",
-      "live_stream_url": "",
-      "detail_link": "https://x.com/AoiFurukawa"
-    },
     {
       "id": "2fef6f56-bae1-80b7-b926-e93082e51b4a",
       "name": "【埼玉】街頭演説",

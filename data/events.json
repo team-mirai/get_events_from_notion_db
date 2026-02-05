@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T21:02:07.646114+09:00",
+  "generated_at": "2026-02-05T21:23:45.271095+09:00",
   "timezone": "Asia/Tokyo",
   "total_count": 18,
   "events": [
@@ -197,7 +197,7 @@
         "start": "2026-02-07T19:00:00.000+09:00",
         "end": null
       },
-      "location": "神宮（聖徳記念絵画館前）",
+      "location": "明治神宮外苑（聖徳記念絵画館前通り）",
       "live_stream_url": "",
       "detail_link": "https://x.com/mineshima_mirai"
     }

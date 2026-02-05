@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-05T15:30:16.826257+09:00",
+  "generated_at": "2026-02-05T15:52:22.624012+09:00",
   "timezone": "Asia/Tokyo",
-  "total_count": 12,
+  "total_count": 18,
   "events": [
     {
       "id": "2fdf6f56-bae1-80fc-9952-fc7d56d85d17",
@@ -60,80 +60,146 @@
     },
     {
       "id": "2fef6f56-bae1-80b7-b926-e93082e51b4a",
-      "name": "",
+      "name": "【埼玉】街頭演説",
       "date": {
         "start": "2026-02-06T09:00:00.000+09:00",
         "end": null
       },
-      "location": "",
+      "location": "和光市駅 南口",
       "live_stream_url": "",
-      "detail_link": ""
+      "detail_link": "https://x.com/moo_mirai"
     },
     {
       "id": "2fef6f56-bae1-80b0-aa9e-c785ccdab158",
-      "name": "",
+      "name": "【埼玉】街頭演説",
       "date": {
         "start": "2026-02-06T10:15:00.000+09:00",
         "end": null
       },
-      "location": "",
+      "location": "朝霞台駅北口・北朝霞駅東口",
       "live_stream_url": "",
-      "detail_link": ""
+      "detail_link": "https://x.com/moo_mirai"
     },
     {
       "id": "2fef6f56-bae1-80d4-b0d0-dc5f718160b0",
-      "name": "",
+      "name": "【埼玉】街頭演説",
       "date": {
         "start": "2026-02-06T11:30:00.000+09:00",
         "end": null
       },
-      "location": "",
+      "location": "武蔵浦和駅 東口",
       "live_stream_url": "",
-      "detail_link": ""
+      "detail_link": "https://x.com/moo_mirai"
     },
     {
       "id": "2fef6f56-bae1-8059-8a5b-fe45bfd2685d",
-      "name": "",
+      "name": "【埼玉】街頭演説",
       "date": {
         "start": "2026-02-06T12:45:00.000+09:00",
         "end": null
       },
-      "location": "",
+      "location": "川口駅 東口",
       "live_stream_url": "",
-      "detail_link": ""
+      "detail_link": "https://x.com/moo_mirai"
     },
     {
       "id": "2fef6f56-bae1-8036-8ee8-fc896cc00d29",
-      "name": "",
+      "name": "【東京】街頭演説",
       "date": {
         "start": "2026-02-06T15:30:00.000+09:00",
         "end": null
       },
-      "location": "",
+      "location": "芝浦プラタナス公園前",
       "live_stream_url": "",
-      "detail_link": ""
+      "detail_link": "https://x.com/mineshima_mirai"
     },
     {
       "id": "2fef6f56-bae1-80e6-8a39-ecd9a8216f96",
-      "name": "",
+      "name": "【東京】街頭演説",
       "date": {
         "start": "2026-02-06T17:00:00.000+09:00",
         "end": null
       },
-      "location": "",
+      "location": "シティタワー品川前",
       "live_stream_url": "",
-      "detail_link": ""
+      "detail_link": "https://x.com/mineshima_mirai"
     },
     {
       "id": "2fef6f56-bae1-80ba-b4dc-f74d7ea88ccb",
-      "name": "",
+      "name": "【東京】街頭演説",
       "date": {
         "start": "2026-02-06T19:00:00.000+09:00",
         "end": null
       },
-      "location": "",
+      "location": "新橋駅 SL広場",
       "live_stream_url": "",
-      "detail_link": ""
+      "detail_link": "https://x.com/mineshima_mirai"
+    },
+    {
+      "id": "2fef6f56-bae1-80d4-a4ac-fc402d88aa6d",
+      "name": "【神奈川】街頭演説",
+      "date": {
+        "start": "2026-02-07T10:30:00.000+09:00",
+        "end": null
+      },
+      "location": "川崎ラゾーナ前",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/michio_mirai"
+    },
+    {
+      "id": "2fef6f56-bae1-80f6-a618-f41028fcf979",
+      "name": "【東京】街頭演説",
+      "date": {
+        "start": "2026-02-07T12:00:00.000+09:00",
+        "end": null
+      },
+      "location": "自由が丘駅前広場 ",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/usami_mirai"
+    },
+    {
+      "id": "2fef6f56-bae1-8025-b232-c92abdddd096",
+      "name": "【埼玉】街頭演説",
+      "date": {
+        "start": "2026-02-07T14:15:00.000+09:00",
+        "end": null
+      },
+      "location": "大宮駅 東口",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/moo_mirai"
+    },
+    {
+      "id": "2fef6f56-bae1-8094-8c81-cc4576c48dae",
+      "name": "【東京】街頭演説",
+      "date": {
+        "start": "2026-02-07T16:00:00.000+09:00",
+        "end": null
+      },
+      "location": "数寄屋橋交差点",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/a_dobashi"
+    },
+    {
+      "id": "2fef6f56-bae1-8085-b7f1-fd5d6190be51",
+      "name": "【千葉】街頭演説",
+      "date": {
+        "start": "2026-02-07T17:30:00.000+09:00",
+        "end": null
+      },
+      "location": "新浦安駅前広場",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/syuhei_mirai"
+    },
+    {
+      "id": "2fef6f56-bae1-808e-81f4-f239ada69146",
+      "name": "【東京】街頭演説",
+      "date": {
+        "start": "2026-02-07T19:00:00.000+09:00",
+        "end": null
+      },
+      "location": "神宮（聖徳記念絵画館前）",
+      "live_stream_url": "",
+      "detail_link": "https://x.com/mineshima_mirai"
     }
   ]
 }

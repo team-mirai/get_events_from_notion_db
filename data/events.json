@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T14:58:26.958913+09:00",
+  "generated_at": "2026-02-06T15:25:04.018415+09:00",
   "timezone": "Asia/Tokyo",
   "total_count": 16,
   "events": [
@@ -99,7 +99,7 @@
         "end": null
       },
       "location": "新橋駅 SL広場",
-      "live_stream_url": "",
+      "live_stream_url": "https://youtube.com/live/RLS3PCCigjk?feature=share",
       "detail_link": "https://x.com/mineshima_mirai"
     },
     {
